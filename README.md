@@ -1,0 +1,2 @@
+# PythonSyuusaku
+ほとんどFizzBuzzです
